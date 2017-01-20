@@ -1,0 +1,22 @@
+{
+  "name": "podSampleApp",
+  "version": "0.1.0",
+  "summary": "A short description of podSampleApp.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/podSampleApp",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ankitkumar2": "ankitk2@chetu.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/podSampleApp.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "podSampleApp/Classes/**/*"
+}
